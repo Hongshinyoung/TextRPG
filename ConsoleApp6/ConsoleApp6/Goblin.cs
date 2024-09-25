@@ -8,5 +8,6 @@ namespace ConsoleApp6
 {
     internal class Goblin : Monster
     {
+        public Goblin(string name) : base(name, 50) { }
     }
 }

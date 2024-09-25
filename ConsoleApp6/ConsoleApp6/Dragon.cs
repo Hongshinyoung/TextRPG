@@ -8,5 +8,6 @@ namespace ConsoleApp6
 {
     internal class Dragon : Monster
     {
+        public Dragon(string name) : base(name, 150) { }
     }
 }

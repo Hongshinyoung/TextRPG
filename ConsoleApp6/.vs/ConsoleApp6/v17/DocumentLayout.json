@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\TextRPG\\ConsoleApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\playerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\playerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c#\\textrpg\\consoleapp6\\consoleapp6\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB25A3F-A0C7-48F8-A579-2485ECD34FFA}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\GameManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\GameManager.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\GameManager.cs",
+              "RelativeToolTip": "ConsoleApp6\\GameManager.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:56:22.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Item.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Item.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Item.cs",
+              "RelativeToolTip": "ConsoleApp6\\Item.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:56:16.278Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Shop.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Shop.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Shop.cs",
+              "RelativeToolTip": "ConsoleApp6\\Shop.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:56:12.791Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerStatus.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\PlayerStatus.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\PlayerStatus.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\PlayerStatus.cs",
+              "RelativeToolTip": "ConsoleApp6\\PlayerStatus.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:56:11.678Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Inventory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Inventory.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Inventory.cs",
+              "RelativeToolTip": "ConsoleApp6\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:00:33.755Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Dungeon.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Dungeon.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Dungeon.cs",
+              "RelativeToolTip": "ConsoleApp6\\Dungeon.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:49:04.565Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Goblin.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Goblin.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Goblin.cs",
+              "RelativeToolTip": "ConsoleApp6\\Goblin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:05:05.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Monster.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Monster.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Monster.cs",
+              "RelativeToolTip": "ConsoleApp6\\Monster.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABAwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:45:08.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Stage.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Stage.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Stage.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Stage.cs",
+              "RelativeToolTip": "ConsoleApp6\\Stage.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:45:48.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICharacter.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\ICharacter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\ICharacter.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\ICharacter.cs",
+              "RelativeToolTip": "ConsoleApp6\\ICharacter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:07:41.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dragon.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Dragon.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Dragon.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Dragon.cs",
+              "RelativeToolTip": "ConsoleApp6\\Dragon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:27:08.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Warrior.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Warrior.cs",
+              "ToolTip": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\Warrior.cs",
+              "RelativeToolTip": "ConsoleApp6\\Warrior.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAABAwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:00:22.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

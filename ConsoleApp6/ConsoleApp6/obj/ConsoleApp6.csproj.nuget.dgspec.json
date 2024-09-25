@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj": {}
+    "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj": {}
   },
   "projects": {
-    "C:\\C#\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj": {
+    "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+        "projectUniqueName": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
         "projectName": "ConsoleApp6",
-        "projectPath": "C:\\C#\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+        "projectPath": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
         "packagesPath": "C:\\Users\\홍신영\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\ConsoleApp6\\ConsoleApp6\\obj\\",
+        "outputPath": "C:\\C#\\TextRPG\\ConsoleApp6\\ConsoleApp6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\홍신영\\AppData\\Roaming\\NuGet\\NuGet.Config",
